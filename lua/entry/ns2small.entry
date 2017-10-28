@@ -1,0 +1,3 @@
+modEntry = {
+	FileHooks = "lua/ns2small/FileHooks.lua"
+};
