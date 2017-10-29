@@ -1,0 +1,14 @@
+name        = "ns2small"
+source_dir  = ""
+output_dir  = ""
+description = [=[
+
+modid: 0x46a1c9f4
+This mod is dependent on Wooza's Potpourri!
+
+Makes everything smaller except the map geometry smaller (duh).
+]=]
+image       = "preview.jpg"
+tag_modtype = ""
+tag_support = "Must be run on Server"
+publish_id = "46a1c9f4"
