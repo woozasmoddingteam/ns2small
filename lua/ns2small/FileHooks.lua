@@ -6,3 +6,4 @@ ModLoader.SetupFileHook("lua/ExtentsMixin.lua",             "lua/ns2small/Extent
 ModLoader.SetupFileHook("lua/WallMovementMixin.lua",        "lua/ns2small/WallMovementMixin.lua", "post")
 ModLoader.SetupFileHook("lua/TechPoint.lua",                "lua/ns2small/TechPoint.lua",         "post")
 ModLoader.SetupFileHook("lua/Door.lua",                     "lua/ns2small/Door.lua",              "post")
+ModLoader.SetupFileHook("lua/Babbler.lua",                  "lua/ns2small/Babbler.lua",           "post")
