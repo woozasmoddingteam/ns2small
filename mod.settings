@@ -4,7 +4,7 @@ output_dir  = ""
 description = [=[
 
 modid: 0x46a1c9f4
-This mod is dependent on Wooza's Potpourri!
+This mod is **no longer** dependent on Wooza's Potpourri!
 
 Makes everything smaller except the map geometry smaller (duh).
 ]=]
