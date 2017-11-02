@@ -8,3 +8,4 @@ ModLoader.SetupFileHook("lua/TechPoint.lua",                "lua/ns2small/TechPo
 ModLoader.SetupFileHook("lua/Door.lua",                     "lua/ns2small/Door.lua",              "post")
 ModLoader.SetupFileHook("lua/sg_FuncDoor.lua",              "lua/ns2small/sg_FuncDoor.lua",       "post")
 ModLoader.SetupFileHook("lua/Babbler.lua",                  "lua/ns2small/Babbler.lua",           "post")
+--ModLoader.SetupFileHook("lua/EffectManager.lua",            "lua/ns2small/EffectManager.lua",     "post")
